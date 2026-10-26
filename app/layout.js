@@ -1,0 +1,2 @@
+export const metadata={title:"NSE Results Sankey",description:"Visualise any NSE company's quarterly results as a Sankey chart"};
+export default function L({children}){return <html lang="en"><head><meta name="viewport" content="width=device-width,initial-scale=1"/><script src="https://cdn.plot.ly/plotly-2.35.2.min.js" async></script></head><body style={{margin:0,background:"#0f1420",color:"#e6e9ef",fontFamily:"system-ui,-apple-system,Segoe UI,Roboto,sans-serif"}}>{children}</body></html>;}
